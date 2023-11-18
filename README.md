@@ -1,6 +1,12 @@
-# Lakrits
+<center>
+<h1>Lakrits</h1>
 
-A dark, licorice inspired, color scheme for nvim.
+<h4>A dark, licorice inspired, color scheme for nvim.</h4>
+
+![img](./assets/theme.png)
+</center>
+
+
 
 ## Installation
 
@@ -15,7 +21,7 @@ To load the colorscheme, put the line below and make sure it is loaded in your `
 vim.cmd[[colorscheme lakrits]]
 ```
 
-```vimscript
+```vim
 ;; vimscript
 colorscheme lakrits
 ```
