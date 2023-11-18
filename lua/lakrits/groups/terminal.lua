@@ -21,8 +21,8 @@ function M.highlight(color)
 		terminal_color_5 = { fg = c.magenta },
 		terminal_color_13 = { fg = c.magenta },
 
-		terminal_color_6 = { fg = c.sky },
-		terminal_color_14 = { fg = c.sky },
+		terminal_color_6 = { fg = c.blue },
+		terminal_color_14 = { fg = c.blue },
 
 		terminal_color_7 = { fg = c.fg },
 		terminal_color_15 = { fg = c.fg },
