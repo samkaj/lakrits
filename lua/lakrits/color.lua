@@ -1,6 +1,6 @@
 local colors = {
 	bg = "#151013",
-	fg = "#eef0f2",
+	fg = "#dcc2d0",
 	black = "#221a20",
 	red = "#d99c96",
 	green = "#a2c990",
@@ -9,7 +9,8 @@ local colors = {
 	magenta = "#ecbfd4",
 	cyan = "#c8f0ff",
 	white = "#e6e6e9",
-	alt_black = "#2d242b",
+    alt_fg = "#483945",
+	alt_black = "#3b2f38",
 	alt_red = "#e9bdba",
 	alt_green = "#bbd4af",
 	alt_yellow = "#f7f6b3",
