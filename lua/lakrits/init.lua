@@ -18,6 +18,4 @@ function M.load()
 	end
 end
 
--- Hello world
-
 return M
