@@ -1,10 +1,10 @@
-<center>
+<div align="center">
 <h1>Lakrits</h1>
 
 <h4>A dark, licorice inspired, color scheme for nvim.</h4>
+</div>
 
 ![img](./assets/theme.png)
-</center>
 
 
 
