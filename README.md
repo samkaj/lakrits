@@ -22,7 +22,7 @@ vim.cmd[[colorscheme lakrits]]
 ```
 
 ```vim
-;; vimscript
+"" vimscript
 colorscheme lakrits
 ```
 
